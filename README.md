@@ -1,6 +1,5 @@
 # Implementasi Input, Output, dan Operator Python
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 Repository ini berisi kumpulan *source code* dan latihan praktikum pemrograman Python yang berfokus pada pemrosesan teks, manipulasi *string*, operasi input/output, serta penggunaan berbagai jenis operator.
